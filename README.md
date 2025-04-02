@@ -1,2 +1,2 @@
 # f-yourself-argo
-F# yourself Argo
+ArgoCD example for deploying Wordpress + MySQL
